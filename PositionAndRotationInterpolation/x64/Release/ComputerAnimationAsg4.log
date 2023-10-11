@@ -1,0 +1,13 @@
+﻿  Aircraft_Animation.cpp
+C:\Users\samin\source\repos\ComputerAnimationAsg4\ComputerAnimationAsg4\Aircraft_Animation.h(19,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\samin\source\repos\ComputerAnimationAsg4\ComputerAnimationAsg4\Aircraft_Animation.h(20,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\samin\source\repos\ComputerAnimationAsg4\ComputerAnimationAsg4\Aircraft_Animation.cpp(204,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\samin\source\repos\ComputerAnimationAsg4\ComputerAnimationAsg4\Aircraft_Animation.cpp(205,21): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  2 of 1633 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+glew32s.lib(glew.obj) : warning LNK4099: PDB '' was not found with 'glew32s.lib(glew.obj)' or at ''; linking object as if no debug info
+  ComputerAnimationAsg4.vcxproj -> C:\Users\samin\source\repos\ComputerAnimationAsg4\x64\Release\ComputerAnimationAsg4.exe
