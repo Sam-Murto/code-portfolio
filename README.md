@@ -9,9 +9,3 @@ Examples of code that I've written for school and personal projects
 
 ### Pacman Clone
 - Personal Project
-
-### 3-D Graph Simulation
-- Personal Project
-
-### 2D Platformer Controller
-- Personal Project
