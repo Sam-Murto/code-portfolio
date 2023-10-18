@@ -10,8 +10,7 @@ Examples of code that I've written for school and personal projects
 ### Pacman Clone
 - Personal Project
 
-### 3-D Graph Simulation
+### Pong Clone
 - Personal Project
-
-### 2D Platformer Controller
-- Personal Project
+- Currently only 2 players
+- Plan to add AI in the future
